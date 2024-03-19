@@ -1,0 +1,12 @@
+python connectx_to_df.py 
+2024-03-19 13:28:35.475 | INFO     | __main__:<module>:13 - start time : 2024-03-19 13:28:35.474972
+2024-03-19 13:33:06.504 | INFO     | __main__:<module>:24 - end time : 2024-03-19 13:33:06.504875
+2024-03-19 13:33:06.505 | INFO     | __main__:<module>:25 - total time taken : 0:04:31.029903
+  flow_id     source_ip  ... attack_label binary_label
+0       1    59.166.0.0  ...       normal            0
+1      10    59.166.0.7  ...       normal            0
+2     100    59.166.0.2  ...       normal            0
+3    1000    59.166.0.4  ...       normal            0
+4   10000  175.45.176.3  ...      fuzzers            1
+
+[5 rows x 50 columns]

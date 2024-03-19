@@ -1,0 +1,12 @@
+python odbc_to_df.py 
+2024-03-19 13:30:30.183 | INFO     | __main__:<module>:14 - start time : 2024-03-19 13:30:30.183550
+2024-03-19 13:33:31.329 | INFO     | __main__:<module>:21 - end time : 2024-03-19 13:33:31.329457
+2024-03-19 13:33:31.329 | INFO     | __main__:<module>:22 - total time taken : 0:03:01.145907
+  flow_id     source_ip  ... attack_label binary_label
+0       1    59.166.0.0  ...       normal            0
+1      10    59.166.0.7  ...       normal            0
+2     100    59.166.0.2  ...       normal            0
+3    1000    59.166.0.4  ...       normal            0
+4   10000  175.45.176.3  ...      fuzzers            1
+
+[5 rows x 50 columns]

@@ -1,0 +1,30 @@
+# put your configuration values here
+
+[runtime]
+log_level="WARNING"  # the system log level of dlt
+# use the dlthub_telemetry setting to enable/disable anonymous usage data reporting, see https://dlthub.com/docs/telemetry
+dlthub_telemetry = false
+request_timeout = 120  # Timeout in seconds
+
+[normalize.data_writer]
+disable_compression=true
+
+# set buffer size for extract and normalize stages
+[data_writer]
+buffer_max_items=500000
+file_max_items=1000000  # rotation file size limit
+file_max_bytes=50000000  # 50MB
+
+[extract]
+worker=5
+next_item_mode="fifo"
+
+[normalize]
+# Use 3 worker processes to process 3 files in parallel. 
+# Normalization is CPU bound and can easily saturate all your cores. Never allow dlt to use all cores on your local machine.
+workers=3
+
+[destination.filesystem]
+bucket_url = "s3://s3-landingzone-9212-d-001/TEST_WANG/dlt" 
+layout="{table_name}/{load_id}_{curr_date}/{table_name}_{file_id}.{ext}"
+

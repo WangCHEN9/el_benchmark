@@ -1,0 +1,35 @@
+python connectx_dlt.py 
+2024-03-19 13:31:55.399 | INFO     | sql_database.utils:init_logger:18 - adding log file path : logs/el-fmk.log
+2024-03-19 13:31:55.405 | INFO     | __main__:<module>:100 - start time : 2024-03-19 13:31:55.405930
+-------------------------- Extract cx_dbo_unsw_flow1 ---------------------------
+Resources: 0/1 (0.0%) | Time: 258.71s | Rate: 0.00/s
+unsw_flow1: 2059415  | Time: 0.00s | Rate: 159959492077.04/s
+Memory usage: 1445.02 MB (30.40%) | CPU usage: 0.00%
+
+-------------------------- Extract cx_dbo_unsw_flow1 ---------------------------
+Resources: 1/1 (100.0%) | Time: 258.72s | Rate: 0.00/s
+unsw_flow1: 2059415  | Time: 0.01s | Rate: 179323061.97/s
+Memory usage: 1445.02 MB (30.40%) | CPU usage: 0.00%
+
+-------------- Normalize cx_dbo_unsw_flow1 in 1710855116.5864956 ---------------
+Files: 1/1 (100.0%) | Time: 0.46s | Rate: 2.20/s
+Items: 2059415  | Time: 0.46s | Rate: 4526057.13/s
+Memory usage: 1394.98 MB (30.40%) | CPU usage: 0.00%
+
+----------------- Load cx_dbo_unsw_flow1 in 1710855116.5864956 -----------------
+Jobs: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 1417.09 MB (30.40%) | CPU usage: 0.00%
+
+----------------- Load cx_dbo_unsw_flow1 in 1710855116.5864956 -----------------
+Jobs: 1/1 (100.0%) | Time: 0.03s | Rate: 33.16/s
+Memory usage: 1417.09 MB (30.40%) | CPU usage: 0.00%
+
+----------------- Load cx_dbo_unsw_flow1 in 1710855116.5864956 -----------------
+Memory usage: 1417.09 MB (30.40%) | CPU usage: 0.00%
+
+Pipeline cx_dbo_UNSW_Flow1 load step completed in 10.54 seconds
+1 load package(s) were loaded to destination filesystem and into dataset unsw_flow1
+The filesystem destination used s3://s3-landingzone-9212-d-001/TEST_WANG/dlt location to store data
+Load package 1710855116.5864956 is LOADED and contains no failed jobs
+2024-03-19 13:36:27.215 | INFO     | __main__:<module>:103 - end time : 2024-03-19 13:31:55.405930
+2024-03-19 13:36:27.216 | INFO     | __main__:<module>:104 - total time taken : 0:04:31.809800

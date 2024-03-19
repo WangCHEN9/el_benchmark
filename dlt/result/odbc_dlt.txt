@@ -1,0 +1,616 @@
+python odbc_dlt.py 
+2024-03-19 13:31:30.424 | INFO     | sql_database.utils:init_logger:18 - adding log file path : logs/el-fmk.log
+2024-03-19 13:31:30.431 | INFO     | __main__:<module>:61 - start time : 2024-03-19 13:31:30.431232
+2024-03-19 13:31:30.454 | INFO     | sql_database.utils:get_mssql_engine:37 - engine created
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 1.49s | Rate: 0.00/s
+unsw_flow1: 10000  | Time: 0.00s | Rate: 791378113.21/s
+Memory usage: 219.45 MB (38.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 3.18s | Rate: 0.00/s
+unsw_flow1: 30000  | Time: 1.70s | Rate: 17683.19/s
+Memory usage: 303.02 MB (38.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 4.75s | Rate: 0.00/s
+unsw_flow1: 50000  | Time: 3.27s | Rate: 15312.29/s
+Memory usage: 386.80 MB (39.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 6.52s | Rate: 0.00/s
+unsw_flow1: 70000  | Time: 5.03s | Rate: 13915.98/s
+Memory usage: 470.70 MB (39.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 7.72s | Rate: 0.00/s
+unsw_flow1: 80000  | Time: 6.23s | Rate: 12837.61/s
+Memory usage: 513.95 MB (39.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 9.38s | Rate: 0.00/s
+unsw_flow1: 90000  | Time: 7.89s | Rate: 11401.47/s
+Memory usage: 554.44 MB (40.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 10.99s | Rate: 0.00/s
+unsw_flow1: 110000  | Time: 9.50s | Rate: 11576.18/s
+Memory usage: 639.65 MB (40.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 12.07s | Rate: 0.00/s
+unsw_flow1: 120000  | Time: 10.59s | Rate: 11334.62/s
+Memory usage: 680.36 MB (40.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 13.67s | Rate: 0.00/s
+unsw_flow1: 140000  | Time: 12.18s | Rate: 11491.59/s
+Memory usage: 765.59 MB (41.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 15.77s | Rate: 0.00/s
+unsw_flow1: 160000  | Time: 14.28s | Rate: 11202.35/s
+Memory usage: 849.46 MB (42.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 17.44s | Rate: 0.00/s
+unsw_flow1: 180000  | Time: 15.95s | Rate: 11284.39/s
+Memory usage: 935.30 MB (42.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 19.48s | Rate: 0.00/s
+unsw_flow1: 200000  | Time: 17.99s | Rate: 11114.59/s
+Memory usage: 1019.05 MB (43.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 21.09s | Rate: 0.00/s
+unsw_flow1: 220000  | Time: 19.60s | Rate: 11223.93/s
+Memory usage: 1104.74 MB (44.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 22.72s | Rate: 0.00/s
+unsw_flow1: 240000  | Time: 21.24s | Rate: 11301.81/s
+Memory usage: 1188.41 MB (44.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 24.06s | Rate: 0.00/s
+unsw_flow1: 250000  | Time: 22.57s | Rate: 11076.32/s
+Memory usage: 1230.88 MB (45.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 25.70s | Rate: 0.00/s
+unsw_flow1: 270000  | Time: 24.21s | Rate: 11151.94/s
+Memory usage: 1317.48 MB (45.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 27.33s | Rate: 0.00/s
+unsw_flow1: 290000  | Time: 25.85s | Rate: 11219.79/s
+Memory usage: 1400.52 MB (46.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 28.73s | Rate: 0.00/s
+unsw_flow1: 300000  | Time: 27.25s | Rate: 11009.73/s
+Memory usage: 1442.61 MB (46.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 30.40s | Rate: 0.00/s
+unsw_flow1: 320000  | Time: 28.92s | Rate: 11065.90/s
+Memory usage: 1528.13 MB (46.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 31.99s | Rate: 0.00/s
+unsw_flow1: 340000  | Time: 30.50s | Rate: 11145.85/s
+Memory usage: 1609.90 MB (47.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 34.29s | Rate: 0.00/s
+unsw_flow1: 360000  | Time: 32.81s | Rate: 10972.69/s
+Memory usage: 1694.61 MB (48.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 36.08s | Rate: 0.00/s
+unsw_flow1: 380000  | Time: 34.59s | Rate: 10984.93/s
+Memory usage: 1780.02 MB (48.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 37.75s | Rate: 0.00/s
+unsw_flow1: 400000  | Time: 36.27s | Rate: 11029.44/s
+Memory usage: 1864.76 MB (48.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 40.20s | Rate: 0.00/s
+unsw_flow1: 420000  | Time: 38.72s | Rate: 10847.48/s
+Memory usage: 1948.30 MB (49.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 41.81s | Rate: 0.00/s
+unsw_flow1: 440000  | Time: 40.32s | Rate: 10912.33/s
+Memory usage: 2034.78 MB (49.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 43.48s | Rate: 0.00/s
+unsw_flow1: 460000  | Time: 41.99s | Rate: 10954.47/s
+Memory usage: 2117.52 MB (50.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 45.09s | Rate: 0.00/s
+unsw_flow1: 480000  | Time: 43.60s | Rate: 11008.77/s
+Memory usage: 2201.77 MB (50.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 107.51s | Rate: 0.00/s
+unsw_flow1: 500000  | Time: 106.03s | Rate: 4715.72/s
+Memory usage: 1371.95 MB (47.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 109.21s | Rate: 0.00/s
+unsw_flow1: 520000  | Time: 107.72s | Rate: 4827.35/s
+Memory usage: 1357.34 MB (48.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 110.84s | Rate: 0.00/s
+unsw_flow1: 540000  | Time: 109.35s | Rate: 4938.26/s
+Memory usage: 1357.34 MB (49.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 112.47s | Rate: 0.00/s
+unsw_flow1: 560000  | Time: 110.99s | Rate: 5045.65/s
+Memory usage: 1365.59 MB (50.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 114.35s | Rate: 0.00/s
+unsw_flow1: 580000  | Time: 112.87s | Rate: 5138.77/s
+Memory usage: 1405.99 MB (51.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 115.99s | Rate: 0.00/s
+unsw_flow1: 600000  | Time: 114.50s | Rate: 5240.05/s
+Memory usage: 1448.36 MB (49.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 117.99s | Rate: 0.00/s
+unsw_flow1: 620000  | Time: 116.50s | Rate: 5321.89/s
+Memory usage: 1490.22 MB (42.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 119.65s | Rate: 0.00/s
+unsw_flow1: 640000  | Time: 118.16s | Rate: 5416.31/s
+Memory usage: 1532.91 MB (41.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 120.83s | Rate: 0.00/s
+unsw_flow1: 650000  | Time: 119.35s | Rate: 5446.33/s
+Memory usage: 1552.03 MB (41.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 122.48s | Rate: 0.00/s
+unsw_flow1: 670000  | Time: 121.00s | Rate: 5537.31/s
+Memory usage: 1596.13 MB (41.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 124.54s | Rate: 0.00/s
+unsw_flow1: 690000  | Time: 123.06s | Rate: 5607.12/s
+Memory usage: 1636.32 MB (41.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 126.17s | Rate: 0.00/s
+unsw_flow1: 710000  | Time: 124.69s | Rate: 5694.23/s
+Memory usage: 1679.46 MB (23.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 128.33s | Rate: 0.00/s
+unsw_flow1: 730000  | Time: 126.84s | Rate: 5755.30/s
+Memory usage: 1719.88 MB (23.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 129.34s | Rate: 0.00/s
+unsw_flow1: 740000  | Time: 127.85s | Rate: 5787.87/s
+Memory usage: 1740.88 MB (23.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 130.97s | Rate: 0.00/s
+unsw_flow1: 760000  | Time: 129.49s | Rate: 5869.29/s
+Memory usage: 1783.80 MB (23.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 132.59s | Rate: 0.00/s
+unsw_flow1: 780000  | Time: 131.10s | Rate: 5949.43/s
+Memory usage: 1825.71 MB (23.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 134.01s | Rate: 0.00/s
+unsw_flow1: 790000  | Time: 132.52s | Rate: 5961.26/s
+Memory usage: 1846.55 MB (23.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 135.62s | Rate: 0.00/s
+unsw_flow1: 810000  | Time: 134.13s | Rate: 6038.95/s
+Memory usage: 1889.98 MB (23.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 137.25s | Rate: 0.00/s
+unsw_flow1: 830000  | Time: 135.77s | Rate: 6113.49/s
+Memory usage: 1930.91 MB (24.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 139.60s | Rate: 0.00/s
+unsw_flow1: 850000  | Time: 138.11s | Rate: 6154.47/s
+Memory usage: 1973.16 MB (24.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 141.23s | Rate: 0.00/s
+unsw_flow1: 870000  | Time: 139.75s | Rate: 6225.53/s
+Memory usage: 2016.02 MB (24.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 142.86s | Rate: 0.00/s
+unsw_flow1: 890000  | Time: 141.38s | Rate: 6295.20/s
+Memory usage: 2059.01 MB (24.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 145.31s | Rate: 0.00/s
+unsw_flow1: 910000  | Time: 143.82s | Rate: 6327.25/s
+Memory usage: 2100.23 MB (24.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 146.96s | Rate: 0.00/s
+unsw_flow1: 930000  | Time: 145.47s | Rate: 6392.98/s
+Memory usage: 2143.95 MB (25.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 148.59s | Rate: 0.00/s
+unsw_flow1: 950000  | Time: 147.10s | Rate: 6458.23/s
+Memory usage: 2184.84 MB (25.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 150.21s | Rate: 0.00/s
+unsw_flow1: 970000  | Time: 148.72s | Rate: 6522.19/s
+Memory usage: 2226.79 MB (25.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 151.98s | Rate: 0.00/s
+unsw_flow1: 980000  | Time: 150.49s | Rate: 6511.94/s
+Memory usage: 2248.09 MB (25.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 212.20s | Rate: 0.00/s
+unsw_flow1: 1000000  | Time: 210.72s | Rate: 4745.74/s
+Memory usage: 1430.23 MB (24.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 213.83s | Rate: 0.00/s
+unsw_flow1: 1020000  | Time: 212.35s | Rate: 4803.50/s
+Memory usage: 1370.41 MB (24.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 215.46s | Rate: 0.00/s
+unsw_flow1: 1040000  | Time: 213.98s | Rate: 4860.30/s
+Memory usage: 1370.41 MB (24.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 217.09s | Rate: 0.00/s
+unsw_flow1: 1060000  | Time: 215.61s | Rate: 4916.34/s
+Memory usage: 1370.41 MB (24.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 218.13s | Rate: 0.00/s
+unsw_flow1: 1070000  | Time: 216.64s | Rate: 4939.00/s
+Memory usage: 1370.41 MB (24.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 219.77s | Rate: 0.00/s
+unsw_flow1: 1090000  | Time: 218.29s | Rate: 4993.45/s
+Memory usage: 1405.76 MB (24.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 220.85s | Rate: 0.00/s
+unsw_flow1: 1100000  | Time: 219.37s | Rate: 5014.45/s
+Memory usage: 1425.65 MB (24.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 222.47s | Rate: 0.00/s
+unsw_flow1: 1120000  | Time: 220.98s | Rate: 5068.31/s
+Memory usage: 1468.64 MB (25.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 223.63s | Rate: 0.00/s
+unsw_flow1: 1130000  | Time: 222.15s | Rate: 5086.74/s
+Memory usage: 1488.57 MB (25.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 225.29s | Rate: 0.00/s
+unsw_flow1: 1150000  | Time: 223.80s | Rate: 5138.52/s
+Memory usage: 1531.24 MB (25.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 227.35s | Rate: 0.00/s
+unsw_flow1: 1170000  | Time: 225.87s | Rate: 5180.02/s
+Memory usage: 1572.20 MB (25.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 228.99s | Rate: 0.00/s
+unsw_flow1: 1190000  | Time: 227.51s | Rate: 5230.60/s
+Memory usage: 1615.27 MB (25.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 231.08s | Rate: 0.00/s
+unsw_flow1: 1210000  | Time: 229.59s | Rate: 5270.22/s
+Memory usage: 1656.84 MB (25.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 232.69s | Rate: 0.00/s
+unsw_flow1: 1230000  | Time: 231.20s | Rate: 5320.05/s
+Memory usage: 1698.79 MB (26.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 234.30s | Rate: 0.00/s
+unsw_flow1: 1250000  | Time: 232.81s | Rate: 5369.16/s
+Memory usage: 1740.46 MB (26.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 235.66s | Rate: 0.00/s
+unsw_flow1: 1260000  | Time: 234.17s | Rate: 5380.63/s
+Memory usage: 1761.60 MB (26.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 237.31s | Rate: 0.00/s
+unsw_flow1: 1280000  | Time: 235.82s | Rate: 5427.80/s
+Memory usage: 1804.67 MB (26.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 238.93s | Rate: 0.00/s
+unsw_flow1: 1300000  | Time: 237.44s | Rate: 5475.02/s
+Memory usage: 1845.84 MB (26.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 240.39s | Rate: 0.00/s
+unsw_flow1: 1310000  | Time: 238.91s | Rate: 5483.34/s
+Memory usage: 1866.96 MB (26.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 242.00s | Rate: 0.00/s
+unsw_flow1: 1330000  | Time: 240.52s | Rate: 5529.76/s
+Memory usage: 1909.51 MB (27.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 243.61s | Rate: 0.00/s
+unsw_flow1: 1350000  | Time: 242.13s | Rate: 5575.54/s
+Memory usage: 1951.57 MB (27.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 245.98s | Rate: 0.00/s
+unsw_flow1: 1370000  | Time: 244.50s | Rate: 5603.38/s
+Memory usage: 1993.50 MB (27.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 247.62s | Rate: 0.00/s
+unsw_flow1: 1390000  | Time: 246.13s | Rate: 5647.33/s
+Memory usage: 2036.80 MB (27.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 249.25s | Rate: 0.00/s
+unsw_flow1: 1410000  | Time: 247.76s | Rate: 5690.95/s
+Memory usage: 2079.96 MB (27.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 250.87s | Rate: 0.00/s
+unsw_flow1: 1430000  | Time: 249.39s | Rate: 5734.06/s
+Memory usage: 2123.78 MB (27.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 252.55s | Rate: 0.00/s
+unsw_flow1: 1440000  | Time: 251.07s | Rate: 5735.54/s
+Memory usage: 2144.87 MB (28.00%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 254.21s | Rate: 0.00/s
+unsw_flow1: 1460000  | Time: 252.73s | Rate: 5777.01/s
+Memory usage: 2186.97 MB (28.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 255.83s | Rate: 0.00/s
+unsw_flow1: 1480000  | Time: 254.34s | Rate: 5818.94/s
+Memory usage: 2229.18 MB (28.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 314.44s | Rate: 0.00/s
+unsw_flow1: 1500000  | Time: 312.96s | Rate: 4793.01/s
+Memory usage: 1497.34 MB (22.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 316.21s | Rate: 0.00/s
+unsw_flow1: 1520000  | Time: 314.72s | Rate: 4829.67/s
+Memory usage: 1467.70 MB (22.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 318.01s | Rate: 0.00/s
+unsw_flow1: 1540000  | Time: 316.52s | Rate: 4865.38/s
+Memory usage: 1467.70 MB (22.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 319.62s | Rate: 0.00/s
+unsw_flow1: 1560000  | Time: 318.13s | Rate: 4903.63/s
+Memory usage: 1467.70 MB (22.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 320.67s | Rate: 0.00/s
+unsw_flow1: 1570000  | Time: 319.18s | Rate: 4918.86/s
+Memory usage: 1467.70 MB (22.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 322.28s | Rate: 0.00/s
+unsw_flow1: 1590000  | Time: 320.79s | Rate: 4956.44/s
+Memory usage: 1467.70 MB (22.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 324.20s | Rate: 0.00/s
+unsw_flow1: 1610000  | Time: 322.72s | Rate: 4988.88/s
+Memory usage: 1488.83 MB (22.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 325.81s | Rate: 0.00/s
+unsw_flow1: 1630000  | Time: 324.32s | Rate: 5025.83/s
+Memory usage: 1530.26 MB (22.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 327.00s | Rate: 0.00/s
+unsw_flow1: 1640000  | Time: 325.51s | Rate: 5038.18/s
+Memory usage: 1550.65 MB (22.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 328.63s | Rate: 0.00/s
+unsw_flow1: 1660000  | Time: 327.14s | Rate: 5074.28/s
+Memory usage: 1594.37 MB (22.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 330.71s | Rate: 0.00/s
+unsw_flow1: 1680000  | Time: 329.22s | Rate: 5102.97/s
+Memory usage: 1636.86 MB (22.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 332.34s | Rate: 0.00/s
+unsw_flow1: 1700000  | Time: 330.85s | Rate: 5138.24/s
+Memory usage: 1678.92 MB (22.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 334.49s | Rate: 0.00/s
+unsw_flow1: 1720000  | Time: 333.00s | Rate: 5165.14/s
+Memory usage: 1720.09 MB (22.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 336.10s | Rate: 0.00/s
+unsw_flow1: 1740000  | Time: 334.61s | Rate: 5200.03/s
+Memory usage: 1763.94 MB (23.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 337.71s | Rate: 0.00/s
+unsw_flow1: 1760000  | Time: 336.22s | Rate: 5234.62/s
+Memory usage: 1806.02 MB (23.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 339.94s | Rate: 0.00/s
+unsw_flow1: 1780000  | Time: 338.46s | Rate: 5259.18/s
+Memory usage: 1847.29 MB (23.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 341.56s | Rate: 0.00/s
+unsw_flow1: 1800000  | Time: 340.08s | Rate: 5292.90/s
+Memory usage: 1890.46 MB (23.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 343.19s | Rate: 0.00/s
+unsw_flow1: 1820000  | Time: 341.70s | Rate: 5326.32/s
+Memory usage: 1932.76 MB (23.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 344.71s | Rate: 0.00/s
+unsw_flow1: 1830000  | Time: 343.22s | Rate: 5331.85/s
+Memory usage: 1953.94 MB (23.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 346.32s | Rate: 0.00/s
+unsw_flow1: 1850000  | Time: 344.83s | Rate: 5364.97/s
+Memory usage: 1998.04 MB (23.80%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 347.94s | Rate: 0.00/s
+unsw_flow1: 1870000  | Time: 346.45s | Rate: 5397.58/s
+Memory usage: 2038.27 MB (23.90%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 349.56s | Rate: 0.00/s
+unsw_flow1: 1890000  | Time: 348.07s | Rate: 5429.95/s
+Memory usage: 2080.19 MB (24.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 351.20s | Rate: 0.00/s
+unsw_flow1: 1900000  | Time: 349.71s | Rate: 5433.01/s
+Memory usage: 2101.23 MB (24.10%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 352.82s | Rate: 0.00/s
+unsw_flow1: 1920000  | Time: 351.33s | Rate: 5464.92/s
+Memory usage: 2144.41 MB (24.30%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 354.43s | Rate: 0.00/s
+unsw_flow1: 1940000  | Time: 352.94s | Rate: 5496.65/s
+Memory usage: 2186.59 MB (24.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 356.05s | Rate: 0.00/s
+unsw_flow1: 1960000  | Time: 354.57s | Rate: 5527.86/s
+Memory usage: 2228.83 MB (24.50%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 357.80s | Rate: 0.00/s
+unsw_flow1: 1970000  | Time: 356.32s | Rate: 5528.81/s
+Memory usage: 2248.88 MB (24.60%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 359.41s | Rate: 0.00/s
+unsw_flow1: 1990000  | Time: 357.93s | Rate: 5559.81/s
+Memory usage: 2291.78 MB (24.70%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 417.44s | Rate: 0.00/s
+unsw_flow1: 2000000  | Time: 415.95s | Rate: 4808.26/s
+Memory usage: 1534.05 MB (22.40%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 419.08s | Rate: 0.00/s
+unsw_flow1: 2020000  | Time: 417.60s | Rate: 4837.19/s
+Memory usage: 1476.71 MB (22.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 420.69s | Rate: 0.00/s
+unsw_flow1: 2040000  | Time: 419.21s | Rate: 4866.31/s
+Memory usage: 1476.71 MB (22.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 0/1 (0.0%) | Time: 422.47s | Rate: 0.00/s
+unsw_flow1: 2059415  | Time: 420.98s | Rate: 4891.90/s
+Memory usage: 1476.71 MB (22.20%) | CPU usage: 0.00%
+
+----------------------------- Extract sql_database -----------------------------
+Resources: 1/1 (100.0%) | Time: 429.43s | Rate: 0.00/s
+unsw_flow1: 2059415  | Time: 427.95s | Rate: 4812.33/s
+Memory usage: 1265.35 MB (21.50%) | CPU usage: 0.00%
+
+----------------- Normalize sql_database in 1710855092.731634 ------------------
+Files: 1/5 (20.0%) | Time: 149.93s | Rate: 0.01/s
+Items: 0  | Time: 149.93s | Rate: 0.00/s
+Memory usage: 1220.38 MB (53.70%) | CPU usage: 0.00%
+
+----------------- Normalize sql_database in 1710855092.731634 ------------------
+Files: 3/5 (60.0%) | Time: 165.24s | Rate: 0.02/s
+Items: 500000  | Time: 165.24s | Rate: 3025.93/s
+Memory usage: 1220.38 MB (51.70%) | CPU usage: 0.00%
+
+----------------- Normalize sql_database in 1710855092.731634 ------------------
+Files: 5/5 (100.0%) | Time: 293.12s | Rate: 0.02/s
+Items: 1059415  | Time: 293.12s | Rate: 3614.32/s
+Memory usage: 1220.38 MB (50.80%) | CPU usage: 0.00%
+
+----------------- Normalize sql_database in 1710855092.731634 ------------------
+Files: 5/5 (100.0%) | Time: 293.17s | Rate: 0.02/s
+Items: 2059415  | Time: 293.17s | Rate: 7024.66/s
+Memory usage: 1220.38 MB (50.70%) | CPU usage: 0.00%
+
+-------------------- Load sql_database in 1710855092.731634 --------------------
+Jobs: 0/5 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 1227.85 MB (21.40%) | CPU usage: 0.00%
+
+-------------------- Load sql_database in 1710855092.731634 --------------------
+Jobs: 5/5 (100.0%) | Time: 0.04s | Rate: 134.46/s
+Memory usage: 1227.85 MB (21.40%) | CPU usage: 0.00%
+
+-------------------- Load sql_database in 1710855092.731634 --------------------
+Memory usage: 1227.87 MB (21.40%) | CPU usage: 0.00%
+
+Pipeline odbc_dbo_UNSW_Flow1 load step completed in 5.82 seconds
+1 load package(s) were loaded to destination filesystem and into dataset unsw_flow1
+The filesystem destination used s3://s3-landingzone-9212-d-001/TEST_WANG/dlt location to store data
+Load package 1710855092.731634 is LOADED and contains no failed jobs
+2024-03-19 13:43:42.478 | INFO     | __main__:<module>:64 - end time : 2024-03-19 13:31:30.431232
+2024-03-19 13:43:42.479 | INFO     | __main__:<module>:65 - total time taken : 0:12:12.047515
